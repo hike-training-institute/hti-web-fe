@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9976d26d-e53d-4858-abc3-c7342e817365" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/road_map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/road_map.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +53,69 @@
       <option name="presentableId" value="Default" />
       <updated>1590161947953</updated>
     </task>
+    <task id="LOCAL-00001" summary="git ignore .idea">
+      <created>1590164494176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590164494176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore .idea" />
+    <MESSAGE value="git ignore .ideaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore .ideaa" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="382" y="27" width="1145" height="988" key="CommitChangelistDialog2" timestamp="1590164973675">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="382" y="27" width="1145" height="988" key="CommitChangelistDialog2/0.27.1920.988@0.27.1920.988" timestamp="1590164973675" />
+    <state x="182" y="111" width="1536" height="820" key="DiffContextDialog" timestamp="1590164702638">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="182" y="111" width="1536" height="820" key="DiffContextDialog/0.27.1920.988@0.27.1920.988" timestamp="1590164702638" />
     <state width="279" height="395" key="Git.Branch.Popup" timestamp="1590162871182">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state width="279" height="395" key="Git.Branch.Popup/0.27.1920.988@0.27.1920.988" timestamp="1590162871182" />
-    <state x="748" y="417" key="Github.Dialog.Accounts.Choose" timestamp="1590162279415">
+    <state x="748" y="417" key="Github.Dialog.Accounts.Choose" timestamp="1590164502186">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="748" y="417" key="Github.Dialog.Accounts.Choose/0.27.1920.988@0.27.1920.988" timestamp="1590162279415" />
-    <state x="455" y="193" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1590162151976">
+    <state x="748" y="417" key="Github.Dialog.Accounts.Choose/0.27.1920.988@0.27.1920.988" timestamp="1590164502186" />
+    <state x="374" y="110" width="1536" height="820" key="MergeDialog" timestamp="1590164316294">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="455" y="193" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.27.1920.988@0.27.1920.988" timestamp="1590162151976" />
+    <state x="374" y="110" width="1536" height="820" key="MergeDialog/0.27.1920.988@0.27.1920.988" timestamp="1590164316294" />
+    <state x="810" y="357" width="686" height="325" key="MultipleFileMergeDialog" timestamp="1590164316296">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="810" y="357" width="686" height="325" key="MultipleFileMergeDialog/0.27.1920.988@0.27.1920.988" timestamp="1590164316296" />
+    <state x="455" y="193" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1590164642318">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="455" y="193" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.27.1920.988@0.27.1920.988" timestamp="1590164642318" />
+    <state x="672" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590164162650">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="672" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.988@0.27.1920.988" timestamp="1590164162650" />
+    <state x="506" y="262" width="897" height="516" key="git4idea.merge.GitPullDialog" timestamp="1590164212110">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="506" y="262" width="897" height="516" key="git4idea.merge.GitPullDialog/0.27.1920.988@0.27.1920.988" timestamp="1590164212110" />
     <state x="620" y="398" width="670" height="243" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590162886530">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
