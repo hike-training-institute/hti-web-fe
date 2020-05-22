@@ -1,0 +1,19 @@
+.head1 {
+    background: #07578a;
+    padding: 1px 0
+}
+
+.head1 ul {
+    padding: 0;
+    display: flex;
+    width: 100%;
+    justify-content: left;
+    list-style: none;
+}
+
+.head1 ul li,a {
+    margin: 3px 13px;
+    color: #fff;
+    font-size: 13px;
+    font-family: 'OpenSans-SemiBold';
+}

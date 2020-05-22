@@ -1,0 +1,30 @@
+Features:
+1) Register Customer / Trainers
+2) Show In Demand Course/Skill
+3) Latest Job openings 
+4) Customer Feedbacks
+5) Youtube Links for popular web talk
+
+
+Documentation Work:
+1) Course syllabus
+2) Hot Job WriteUps
+
+
+
+Fixes : 
+GoDaddy Domain Name not verified in GCE
+
+
+Current Task in Progress:
+1) Register Customer:
+    
+    FrontEnd :
+      Form for getting user requirement
+      avoid bot in FrontEnd
+    
+    Backend :
+      Django Api for customer detail registeration
+        secure the apis.
+    
+    
