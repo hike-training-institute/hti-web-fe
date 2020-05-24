@@ -1,14 +1,15 @@
 .head1 {
     background: #07578a;
-    padding: 1px 0
+    padding: 1px 0;
 }
 
-.head1 ul {
+.head1 ul,i {
     padding: 0;
-    display: flex;
+    display: block;
     width: 100%;
-    justify-content: left;
+    justify-content: center;
     list-style: none;
+    padding-top: 15px;
 }
 
 .head1 ul li,a {
@@ -16,4 +17,16 @@
     color: #fff;
     font-size: 13px;
     font-family: 'OpenSans-SemiBold';
+}
+
+.head1 h3{
+    padding-right: 80px;
+    color: rgb(224, 228, 186);
+}
+
+@media only screen and (min-width:768px){
+    
+    .head1 ul {
+        display: flex;
+    }
 }
