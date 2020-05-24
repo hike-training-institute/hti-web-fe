@@ -17,6 +17,7 @@ function HomePage(props) {
 				<div class='sidebar'>
 					<RequestQuote />
 				</div>
+				
 			</div>
     );
 }

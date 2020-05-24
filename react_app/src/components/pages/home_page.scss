@@ -1,19 +1,38 @@
 .wrapper{
-    display:grid;
-    grid-template-columns:20vw auto;
     padding-top: 40px;
-    background-color: rgb(245, 244, 244);
   }
   .sidebar{
-    position: fixed;
-    width: 20vw;
-    padding: 25px 25px 25px 25px;
-    background-color: rgb(238, 232, 232)
+    padding:40px ; 
+    background-color:  rgb(180, 182, 184);
+    width: 100%;
+
   }
   .main-content{
-    // flex: 10;
-    height: 2000px;
-    padding: 10px;
-    grid-column-start: 2;
-  
+    padding: 10px; 
+ 
+  }
+
+
+  @media only screen and (min-width: 768px) {
+    .sidebar{
+      display: block;
+      position: fixed;
+      width: 20vw;
+    }
+
+    .wrapper{
+      display:grid;
+      grid-template-columns:20vw auto;
+      padding-top: 40px;
+      background-color: rgb(245, 244, 244);
+    }
+
+    .main-content{
+      // flex: 10;
+      height: 2000px;
+      padding: 10px;
+      grid-column-start: 2;
+    
+    }
+
   }
