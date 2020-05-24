@@ -1,5 +1,7 @@
 import React, { Component, useState } from 'react';
 import './request_quote_sidebar.scss'
+import api from '../../../components/constants/api.constants'
+
 
 function RequestQuote(props) {
 
@@ -11,8 +13,9 @@ function RequestQuote(props) {
 
 
   const handle_submit = e => {
+    console.log("Backed serive calling");
     e.preventDefault()
-    fetch('http://127.0.0.1:8000/customers/customer-requested-quote/',{
+    fetch('http://hti-web-be-dot-hti-web-278108.el.r.appspot.com/customers/customer-requested-quote/',{
       method : 'POST',
       body : JSON.stringify({name, email, phone_number, course_interested}), 
       headers: { "Content-Type": "application/json", Accept: "application/json" },
