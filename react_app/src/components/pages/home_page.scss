@@ -1,22 +1,19 @@
-.choose-us{
-    padding: 40px;
-}
-
-.s_title h2 {
-    text-align: center;
-    font-size: 24px;
-    color: #333;
-    line-height: 35px;
-}
-
-.s_title h2 span {
-    font-weight: 600;
-    color: #0775be;
-}
-
-.s_title p {
-    text-align: center;
-    width: 70%;
-    margin: 0 auto;
-    line-height: 25px;
-}
+.wrapper{
+    display:grid;
+    grid-template-columns:20vw auto;
+    padding-top: 40px;
+    background-color: rgb(245, 244, 244);
+  }
+  .sidebar{
+    position: fixed;
+    width: 20vw;
+    padding: 25px 25px 25px 25px;
+    background-color: rgb(238, 232, 232)
+  }
+  .main-content{
+    // flex: 10;
+    height: 2000px;
+    padding: 10px;
+    grid-column-start: 2;
+  
+  }

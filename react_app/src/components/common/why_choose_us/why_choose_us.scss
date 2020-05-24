@@ -1,0 +1,77 @@
+.choose-us{
+  padding: 40px;
+}
+
+.s_title{
+  padding-bottom: 40px;
+}
+
+.s_title h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+  line-height: 35px;
+}
+
+.s_title h2 span {
+  font-weight: 600;
+  color: #0775be;
+}
+
+.s_title p {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  line-height: 25px;
+}
+
+
+.choose_contents {
+  text-align: center;
+}
+
+.choose_contents h4{
+  padding-bottom: 50px;
+}
+
+.choose_icons i {
+  color: #0776be;
+  font-size: 50px;
+  display: block;
+  text-align: center;
+}
+
+.common_row > fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 20px;
+}
+
+.noborder_left {
+  border-left: none;
+}
+
+.choose_box {
+  border-left: 1px solid rgba(0, 0, 0, .15);
+  border-bottom: 1px solid rgba(0, 0, 0, .15);
+  width: 100%;
+  padding: 30px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  -webkit-transition: all .3s ease;
+  -ms-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+.noborder_bottom {
+  border-bottom: none;
+}
