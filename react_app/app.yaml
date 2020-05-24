@@ -1,5 +1,6 @@
 env: standard
 runtime: nodejs10
+service: hti-web-fe
 
 handlers:
   - url: /static
